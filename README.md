@@ -1,16 +1,26 @@
-## Hi there 👋
+# Osh ManojKumar 👋
 
-<!--
-**osh-mkumar/osh-mkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT (2nd Year) | AI Honors  
+💻 Web Development Intern | Python Programmer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Core Skills
+**Languages:** Python, JavaScript  
+**Frontend:** HTML, CSS, React, 
+**Databases:** MongoDB, SQL  
+**AI/ML:** Pandas, NumPy
+**Tools:** Git, GitHub, VS Code
+
+---
+
+- **JavaScript Projects**  
+  Todo App, Weather App (API-based)
+
+---
+
+## 🔹 Current Focus
+- Full-stack development  
+
+⭐ Consistent learner. Project-driven. Internship-ready.
+

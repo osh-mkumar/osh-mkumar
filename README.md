@@ -1,4 +1,5 @@
-# Osh ManojKumar 👋
+[Hi! I am Osh.
+Pleased to meet you!](https://readme-typing-svg.demolab.com/demo/?size=22&color=F716EF&vCenter=true&lines=Hi!+I+am+Osh.+Pleased+to+meet+you!)
 
 🎓 B.Tech IT (2nd Year) | AI Honors  
 💻 Web Development Intern | Python Programmer  

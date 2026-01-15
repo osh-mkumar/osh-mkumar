@@ -1,5 +1,4 @@
-[Hi! I am Osh.
-Pleased to meet you!](https://readme-typing-svg.demolab.com/demo/?size=22&color=F716EF&vCenter=true&lines=Hi!+I+am+Osh.+Pleased+to+meet+you!)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F716EF&vCenter=true&width=435&lines=Hi!+I+am+Osh.+Pleased+to+meet+you!" alt="Typing SVG" /></a>
 
 🎓 B.Tech IT (2nd Year) | AI Honors  
 💻 Web Development Intern | Python Programmer  

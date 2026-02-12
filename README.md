@@ -12,15 +12,11 @@
 **AI/ML:** Pandas, NumPy
 **Tools:** Git, GitHub, VS Code
 
----
-
-- **JavaScript Projects**  
-  Todo App, Weather App (API-based)
 
 ---
 
 ## 🔹 Current Focus
 - Full-stack development  
 
-⭐ Consistent learner. Project-driven. Internship-ready.
+⭐ Consistent learner. Project-driven. 
 

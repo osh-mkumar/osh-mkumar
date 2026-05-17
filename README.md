@@ -7,7 +7,7 @@
 
 ##  Core Skills
 **Languages:** Python, JavaScript  
-**Frontend:** HTML, CSS, React, 
+**Frontend:** HTML, CSS, React
 **Databases:** MongoDB, SQL  
 **AI/ML:** Pandas, NumPy
 **Tools:** Git, GitHub, VS Code
@@ -16,7 +16,8 @@
 ---
 
 ## 🔹 Current Focus
-- Full-stack development  
+- Full-stack development
+- Data Science
 
 ⭐ Consistent learner. Project-driven. 
 

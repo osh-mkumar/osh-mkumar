@@ -1,13 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F716EF&vCenter=true&width=435&lines=Hi!+I+am+Osh.+Pleased+to+meet+you!" alt="Typing SVG" /></a>
 
-🎓 B.Tech IT (2nd Year) | AI Honors  
+🎓 B.Tech IT (3rd Year) | AI Honors  
 💻 Web Development Intern | Python Programmer  
 
 ---
 
 ##  Core Skills
-**Languages:** Python, JavaScript  
-**Frontend:** HTML, CSS, React
+**Languages:** Python, C, C++
+**Frontend:** HTML, CSS, Javascript, React
 **Databases:** MongoDB, SQL  
 **AI/ML:** Pandas, NumPy
 **Tools:** Git, GitHub, VS Code

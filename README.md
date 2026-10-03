@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F716EF&vCenter=true&width=435&lines=Hi!+I+am+Osh.+Pleased+to+meet+you!" alt="Typing SVG" /></a>
 
-B.Tech IT Junior. Web Development & Data Analytics
+B.Tech IT Junior. Web Development & Data Analytics  
 Building things and learning along the way.
 
 ###  Interactive Portfolio

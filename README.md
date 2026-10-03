@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F716EF&vCenter=true&width=435&lines=Hi!+I+am+Osh.+Pleased+to+meet+you!" alt="Typing SVG" /></a>
 
-🎓 B.Tech IT (3rd Year) | AI Honors  
-    Web Development | Data Analyst  
+B.Tech IT Junior. Python, JS, HTML/CSS, C++ & C Building functional software and exploring web dev.
 
 ###  Interactive Portfolio
 Explore my pixel-art room → [**Enter the Room**](https://osh-mkumar.github.io/Portfolio/room.html)

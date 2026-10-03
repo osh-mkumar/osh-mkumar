@@ -3,7 +3,7 @@
 🎓 B.Tech IT (3rd Year) | AI Honors  
 💻 Web Development | Data Analyst  
 
----
+<!-----
 
 ##  Core Skills
 **Languages:** Python, C, C++
@@ -18,10 +18,10 @@
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=osh-mkumar&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=osh-mkumar&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=osh-mkumar&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!--
 ### 💭 Dev Quote
 
 <p align="center">
@@ -29,4 +29,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/osh-mkumar">osh-mkumar</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/osh-mkumar">osh-mkumar</a></i></p> -->
